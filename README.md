@@ -3,6 +3,9 @@
 This repository contains the accompanying information and software for the paper 
 **Knot intensity distribution: a local measure of entanglement** by A.Barbensi and D.Celoria
 
+https://arxiv.org/abs/2211.12069
+
+
 ## Organisation
 The code and data in the repository are organised as follows:
 There are 4 Jupyter notebooks, showcasing results from specific subsections of the paper (each is documented internally):
